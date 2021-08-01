@@ -7,8 +7,13 @@ Project is a sandpit based on this series Youtube videos exploring the use of th
 
 lso see - https://redux-toolkit.js.org/api/createEntityAdapter
 
+## Setup
 
+Add the following modules to get access to redux-toolkit:
 
+```
+npm i -s @reduxjs/toolkit react-redux rsuite
+```
 
 
 # Getting Started with Create React App
