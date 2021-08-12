@@ -5,7 +5,7 @@ Project is a sandpit based on this series Youtube videos exploring the use of th
 * https://www.youtube.com/watch?v=5zmaUSkyE1I 01 - CRUD example with create entity adapter and create async thunk - redux toolkit
 
 
-lso see - https://redux-toolkit.js.org/api/createEntityAdapter
+Also see - https://redux-toolkit.js.org/api/createEntityAdapter
 
 
 
