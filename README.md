@@ -1,4 +1,4 @@
-# Redux-Toolkit EXplorer
+# Redux-Toolkit Explorer
 
 Project is a sandpit based on this series Youtube videos exploring the use of the createEntityAdaptor functionality:
 
