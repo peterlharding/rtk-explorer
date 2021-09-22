@@ -18,7 +18,13 @@ npm i -s @reduxjs/toolkit react-redux rsuite
 
 See here - https://rsuitejs.com/
 
+# The Exercise
 
+## Data Source
+
+Use jsonplaceholder.typicode.com for data:
+
+* https://jsonplaceholder.typicode.com/comments?_limit=10
 
 
 

@@ -1,13 +1,9 @@
 
 
+import Comments from '../features/comments/Comments';
 import './App.css';
 
-function App() {
-  return (
-    <div className="app">
-        Hello world...
-    </div>
-  );
-}
+const App = () => (<Comments />);
+
 
 export default App;
